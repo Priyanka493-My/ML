@@ -2,7 +2,5 @@ fastapi
 uvicorn
 numpy
 pillow
-keras
-tensorflow
-tflite-runtime
 tensorflow-cpu
+keras-image-helper
